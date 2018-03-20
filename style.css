@@ -1,0 +1,30 @@
+#bag{
+    width: 200px;
+    height: 500px;
+    background:url(/img/bag.png) center no-repeat;
+    background-size: 80%;
+    margin: 0 auto;
+}
+
+#bag.burst{
+    background: url(/img/bag-burst.png) center no-repeat;
+    background-size: 80%;
+}
+
+#life-bar{
+    width: 200px;
+    height: 10px;
+    border: 2px solid #000;
+    margin: 10px auto;
+}
+
+#life-bar div{
+    height: 10px ;
+    background: crimson;
+}
+
+#control-buttons{
+    width: 140px;
+    margin: 0 auto;
+}
+
