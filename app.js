@@ -15,14 +15,7 @@ new Vue({
     restart: function () {
       this.life = 100;
       this.ended = false;
-
     }
-
-  },
-
-  computed: {
-
   }
+
 })
-
-
